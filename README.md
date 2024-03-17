@@ -16,10 +16,10 @@
 3. Fork the repository (if you haven't already), and make a branch for your feature
 4. Happy coding!
 5. Open a pull request, preferably linking to your issue - include your Discord username, and those of the people who helped you, so you can get the contributor role
-6. (For core devs) at least 2 core devs should approve before merging - probably have discussion in Discord first as well.
+6. (For core devs) At least 2 core devs should approve before merging - probably have a discussion in Discord first as well.
 
 ### Datagen:
-Make sure to set the following environment variable when running datagen.
+Make sure to set the following environment variable when running Datagen.
 ```env
 DATAGEN=TRUE
 ```
